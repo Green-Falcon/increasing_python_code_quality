@@ -1,0 +1,26 @@
+[2021-09-23 22:16:48,168]: 89 - __main__ - Program starts
+[2021-09-23 22:16:48,168]: 13 - player - we are in the __init__ of Player class.
+[2021-09-23 22:16:48,168]: 19 - player - end of __init__ of Player class.
+[2021-09-23 22:16:48,168]: 13 - player - we are in the __init__ of Player class.
+[2021-09-23 22:16:48,168]: 19 - player - end of __init__ of Player class.
+[2021-09-23 22:16:48,168]: 23 - __main__ - Initialising the instance variables. [PlayerGame class]
+[2021-09-23 22:16:48,168]: 31 - player - We are in status property (set).
+[2021-09-23 22:16:48,168]: 31 - player - We are in status property (set).
+[2021-09-23 22:16:48,168]: 34 - __main__ - End of initialising.
+[2021-09-23 22:16:48,168]: 38 - __main__ - start method is called.
+[2021-09-23 22:16:48,169]: 46 - __main__ - The first guessed number is: 64. The considered number is: 47
+[2021-09-23 22:16:48,169]: 9 - utility - we are in the print_game_status function.
+[2021-09-23 22:16:48,169]: 69 - __main__ - The 2 guessed number is: 38. The considered number is: 47
+[2021-09-23 22:16:48,169]: 9 - utility - we are in the print_game_status function.
+[2021-09-23 22:16:48,169]: 69 - __main__ - The 3 guessed number is: 50. The considered number is: 47
+[2021-09-23 22:16:48,169]: 9 - utility - we are in the print_game_status function.
+[2021-09-23 22:16:48,170]: 69 - __main__ - The 4 guessed number is: 47. The considered number is: 47
+[2021-09-23 22:16:48,170]: 9 - utility - we are in the print_game_status function.
+[2021-09-23 22:16:48,170]: 31 - player - We are in status property (set).
+[2021-09-23 22:16:48,170]: 31 - player - We are in status property (set).
+[2021-09-23 22:16:48,170]: 25 - player - We are in status property (get).
+[2021-09-23 22:16:48,170]: 25 - player - We are in status property (get).
+[2021-09-23 22:16:48,171]: 83 - __main__ - The game is finished with 'won' status for the guessing player. 
+[2021-09-23 22:16:48,171]: 13 - player - we are in the __init__ of Player class.
+[2021-09-23 22:16:48,171]: 19 - player - end of __init__ of Player class.
+[2021-09-23 22:16:48,171]: 94 - __main__ - Program ends

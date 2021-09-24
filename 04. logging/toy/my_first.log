@@ -1,0 +1,43 @@
+{"asctime": "2021-09-21 22:00:34,338", "name": "__main__", "levelname": "INFO", "message": "inside find_result function."}
+{"asctime": "2021-09-21 22:00:34,338", "name": "__main__", "levelname": "INFO", "message": "The final outcome is found."}
+{"asctime": "2021-09-21 22:00:34,339", "name": "__main__", "levelname": "INFO", "message": "The outcome 12"}
+{"asctime": "2021-09-21 22:03:44,053", "name": "__main__", "levelname": "INFO", "message": "inside find_result function."}
+{"asctime": "2021-09-21 22:03:44,053", "name": "__main__", "levelname": "INFO", "message": "The final outcome is found."}
+{"asctime": "2021-09-21 22:03:44,054", "name": "__main__", "levelname": "INFO", "message": "The outcome 12"}
+{"asctime": "2021-09-21 22:08:47,427", "name": "__main__", "levelname": "INFO", "message": "inside find_result function."}
+{"asctime": "2021-09-21 22:08:47,427", "name": "__main__", "levelname": "INFO", "message": "The final outcome is found."}
+{"asctime": "2021-09-21 22:08:47,428", "name": "__main__", "levelname": "INFO", "message": "The outcome 12"}
+{"asctime": "2021-09-21 22:09:17,423", "name": "__main__", "levelname": "INFO", "message": "inside find_result function."}
+{"asctime": "2021-09-21 22:09:17,423", "name": "__main__", "levelname": "INFO", "message": "The final outcome is found."}
+{"asctime": "2021-09-21 22:09:17,424", "name": "__main__", "levelname": "INFO", "message": "The outcome 12"}
+{"asctime": "2021-09-21 22:12:10,498", "name": "__main__", "levelname": "INFO", "message": "inside find_result function."}
+{"asctime": "2021-09-21 22:12:10,499", "name": "__main__", "levelname": "INFO", "message": "The final outcome is found."}
+{"asctime": "2021-09-21 22:12:10,499", "name": "__main__", "levelname": "INFO", "message": "The outcome 12"}
+{"asctime": "2021-09-21 22:15:53,866", "name": "__main__", "levelname": "INFO", "message": "inside find_result function."}
+{"asctime": "2021-09-21 22:15:53,867", "name": "__main__", "levelname": "INFO", "message": "The final outcome is found."}
+{"asctime": "2021-09-21 22:15:53,867", "name": "__main__", "levelname": "INFO", "message": "The outcome 12"}
+{"asctime": "2021-09-21 22:16:03,970", "name": "__main__", "levelname": "INFO", "message": "inside find_result function."}
+{"asctime": "2021-09-21 22:16:03,971", "name": "__main__", "levelname": "INFO", "message": "The final outcome is found."}
+{"asctime": "2021-09-21 22:16:03,971", "name": "__main__", "levelname": "INFO", "message": "The outcome 12"}
+{"asctime": "2021-09-21 22:16:24,644", "name": "__main__", "levelname": "INFO", "message": "inside find_result function."}
+{"asctime": "2021-09-21 22:16:24,645", "name": "__main__", "levelname": "INFO", "message": "The final outcome is found."}
+{"asctime": "2021-09-21 22:16:24,645", "name": "__main__", "levelname": "INFO", "message": "The outcome 12"}
+{"asctime": "2021-09-21 22:16:26,557", "name": "__main__", "levelname": "INFO", "message": "inside find_result function."}
+{"asctime": "2021-09-21 22:16:26,558", "name": "__main__", "levelname": "INFO", "message": "The final outcome is found."}
+{"asctime": "2021-09-21 22:16:26,558", "name": "__main__", "levelname": "INFO", "message": "The outcome 12"}
+{"asctime": "2021-09-21 22:32:22,433", "name": "third", "levelname": "INFO", "message": "Hi, foo"}
+{"asctime": "2021-09-21 22:32:22,434", "name": "third", "levelname": "INFO", "message": "We are in model"}
+{"asctime": "2021-09-21 22:36:05,427", "name": "third", "levelname": "INFO", "message": "Hi, foo"}
+{"asctime": "2021-09-21 22:36:05,427", "name": "third", "levelname": "INFO", "message": "We are in model"}
+{"asctime": "2021-09-22 23:28:20,804", "name": "third", "levelname": "INFO", "message": "Hi, foo"}
+{"asctime": "2021-09-22 23:28:20,822", "name": "third", "levelname": "INFO", "message": "We are in model"}
+{"asctime": "2021-09-22 23:37:31,628", "name": "third", "levelname": "INFO", "message": "Hi, foo"}
+{"asctime": "2021-09-22 23:37:31,628", "name": "third", "levelname": "INFO", "message": "We are in model"}
+{"asctime": "2021-09-22 23:42:52,227", "name": "third", "levelname": "INFO", "message": "Hi, foo"}
+{"asctime": "2021-09-22 23:42:52,227", "name": "third", "levelname": "INFO", "message": "We are in model"}
+{"asctime": "2021-09-23 00:02:20,094", "name": "third", "levelname": "INFO", "message": "Hi, foo"}
+{"asctime": "2021-09-23 00:02:48,164", "name": "third", "levelname": "INFO", "message": "Hi, foo"}
+{"asctime": "2021-09-23 00:02:48,164", "name": "third", "levelname": "INFO", "message": "We are in model"}
+{"asctime": "2021-09-23 00:02:48,164", "name": "third", "levelname": "INFO", "message": "We are in model"}
+{"asctime": "2021-09-23 00:03:27,076", "name": "third", "levelname": "INFO", "message": "Hi, foo"}
+{"asctime": "2021-09-23 00:03:27,076", "name": "third", "levelname": "INFO", "message": "We are in model"}
